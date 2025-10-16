@@ -136,8 +136,9 @@ def calcular_economia_potencial(colheitas):
         if colheita['tipo_colheita'] == 'mecanica':
             # Diferença entre perda mecânica (15%) e manual (5%)
             diferenca_perda = 0.15 - 0.05  # 10%
-            economia_ton += colheita['toneladas'] * diferenca_perda
-            economia_reais += economia_ton * 150.0
+            economia_atual_ton = colheita['toneladas'] * diferenca_perda
+            economia_ton += economia_atual_ton
+            economia_reais += economia_atual_ton * 150.0
 
     return (economia_ton, economia_reais)
 

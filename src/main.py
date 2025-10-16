@@ -11,7 +11,7 @@ Estruturas aplicadas:
 - Capítulo 5: Manipulação de arquivos (JSON e TXT)
 - Capítulo 6: Conexão com banco de dados Oracle
 
-Autores: Gabriel Casarin & Claude AI
+Autores: Guilherme Yamada Dantas & Claude AI
 Data: 2025
 """
 
@@ -456,7 +456,7 @@ if __name__ == "__main__":
     print("   Colheita de Cana-de-Açúcar")
     print("="*60)
     print("Projeto: FIAP - Disciplina Python")
-    print("Autores: Gabriel Casarin & Claude AI")
+    print("Autores: Guilherme Yamada Dantas & Claude AI")
     print("Ano: 2025")
     print("="*60)
 

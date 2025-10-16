@@ -22,7 +22,7 @@ def conectar_oracle():
     try:
         conn = oracledb.connect(
             user='rm568506',
-            password='ThinkAbout@1',
+            password='190294',
             dsn='oracle.fiap.com.br:1521/ORCL'
         )
         print("✅ Conectado ao Oracle Database!")

@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "fazenda": "Fazenda São José",
+        "data": "01/10/2025",
+        "tipo_colheita": "manual",
+        "toneladas": 450.0,
+        "perda_percentual": 0.05,
+        "perda_toneladas": 22.5,
+        "prejuizo_reais": 3375.0
+    },
+    {
+        "fazenda": "Fazenda Santa Clara",
+        "data": "05/10/2025",
+        "tipo_colheita": "mecanica",
+        "toneladas": 1200.0,
+        "perda_percentual": 0.15,
+        "perda_toneladas": 180.0,
+        "prejuizo_reais": 27000.0
+    },
+    {
+        "fazenda": "Fazenda Boa Vista",
+        "data": "10/10/2025",
+        "tipo_colheita": "mecanica",
+        "toneladas": 980.0,
+        "perda_percentual": 0.15,
+        "perda_toneladas": 147.0,
+        "prejuizo_reais": 22050.0
+    },
+    {
+        "fazenda": "Fazenda Esperança",
+        "data": "12/10/2025",
+        "tipo_colheita": "manual",
+        "toneladas": 520.0,
+        "perda_percentual": 0.05,
+        "perda_toneladas": 26.0,
+        "prejuizo_reais": 3900.0
+    },
+    {
+        "fazenda": "Fazenda Progresso",
+        "data": "14/10/2025",
+        "tipo_colheita": "mecanica",
+        "toneladas": 1550.0,
+        "perda_percentual": 0.15,
+        "perda_toneladas": 232.5,
+        "prejuizo_reais": 34875.0
+    }
+]
